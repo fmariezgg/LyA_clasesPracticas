@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marie/Desktop/Programacion/ClasesPracticas/LyA_clasesPracticas/Sesion 1405/output/principal'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z11showMessagev, symObjAddr: 0x0, symBinAddr: 0x100003F2C, symSize: 0x28 }
+  - { offsetInCU: 0x2DCB, offset: 0x2DCB, size: 0x8, addend: 0x0, symName: __Z11showMessagev, symObjAddr: 0x0, symBinAddr: 0x100003F2C, symSize: 0x28 }
+  - { offsetInCU: 0x2DE4, offset: 0x2DE4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x28, symBinAddr: 0x100003F54, symSize: 0x2C }
+...
