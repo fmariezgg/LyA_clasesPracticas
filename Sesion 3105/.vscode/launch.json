@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marie/Desktop/Programacion/ClasesPracticas/LyA_clasesPracticas/Sesion 3105",
+      "program": "/Users/marie/Desktop/Programacion/ClasesPracticas/LyA_clasesPracticas/Sesion 3105/build/Debug/outDebug"
+    }
+  ]
+}
