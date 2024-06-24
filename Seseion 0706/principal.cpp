@@ -1,7 +1,10 @@
 #include <iostream>
 #include "function.cpp"
+
 using namespace std;
 
-int main() {
+int main(int argc, char const *argv[])
+{
     principal();
+    return 0;
 }
